@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+### About me:
+   - 👨‍🎓 Undergraduate - B.Sc in Information Technology
+   - ❤️ Linux Enthusiast
+   - 👨‍💻 HTML/CSS/JS
+   - 🌱 I’m currently learning VueJS
+   - 📫 Reach me through:
+      - Telegram at https://t.me/nusry
+      - Email at nusry@pm.me
+   - 🔗 Links:
+      - FreeCodeCamp: https://www.freecodecamp.org/nusrynizam
+      - LinkedIn: https://www.linkedin.com/in/nusrynizam/
 <!--
 **NusryNizam/NusryNizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
