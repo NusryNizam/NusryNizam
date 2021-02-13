@@ -9,6 +9,7 @@
    - 🔗 Links:
       - FreeCodeCamp: https://www.freecodecamp.org/nusrynizam
       - LinkedIn: https://www.linkedin.com/in/nusrynizam/
+      - Website: https://nusry.tech
 <!--
 **NusryNizam/NusryNizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
