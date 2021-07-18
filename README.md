@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About me:
    - 👨‍🎓 Undergraduate - B.Sc in Information Technology
-   - ❤️ Linux Enthusiast
+   - ❤️ Linux & Open-source enthusiast
    - 👨‍💻 HTML/CSS/JS
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
