@@ -2,6 +2,7 @@
 ### About me:
    - 👨‍🎓 Undergraduate - B.Sc in Information Technology
    - ❤️ Linux & Open-source enthusiast
+   - ❤️ Graphic Design, Web Development
    - 👨‍💻 HTML/CSS/JS
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
