@@ -4,6 +4,7 @@
    - ❤️ Linux & Open-source enthusiast
    - ❤️ Graphic Design, Web Development
    - 👨‍💻 HTML/CSS/JS
+   - PHP/MySQL
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
       - Email at nusry@pm.me
