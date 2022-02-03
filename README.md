@@ -3,7 +3,7 @@
    - 👨‍🎓 Undergraduate - B.Sc in Information Technology
    - ❤️ Linux & Open-source enthusiast
    - ❤️ Graphic Design, Web Development
-   - 👨‍💻 HTML/CSS/JS
+   - 👨‍💻 HTML/CSS/JS, React
    - PHP/MySQL
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
