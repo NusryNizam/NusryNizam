@@ -2,7 +2,7 @@
 ### About me:
    - 👨‍🎓 Undergraduate - B.Sc in Information Technology
    - ❤️ Linux & Open-source enthusiast
-   - ❤️ Graphic Design,UI/UX Design, Web Development
+   - ❤️ Graphic Design, UI/UX Design, Web Development
    - 👨‍💻 HTML/CSS/JS, React
    - PHP/MySQL
    - 📫 Reach me through:
