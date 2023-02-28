@@ -4,7 +4,7 @@
    - ❤️ Linux & Open-source enthusiast
    - ❤️ Graphic Design, UI/UX Design, Web Development
    - 👨‍💻 HTML/CSS/JS, React, Angular, NodeJS
-   - PHP/MySQL/MongoDB
+   - PHP/MySQL/MongoDB/Firebase
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
       - Email at nusry@pm.me
