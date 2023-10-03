@@ -3,7 +3,7 @@
    - 👨‍🎓 B.Sc in Information Technology
    - ❤️ Linux & Open-source enthusiast
    - ❤️ Graphic Design, UI/UX Design, Web Development
-   - 👨‍💻 HTML/CSS/JS, React, Angular, NodeJS
+   - 👨‍💻 HTML/CSS/JS, React, React Native, Angular, NodeJS
    - PHP/MySQL/MongoDB/Firebase
    - 📫 Reach me through:
       - Telegram at https://t.me/nusry
