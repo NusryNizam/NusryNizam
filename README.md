@@ -6,8 +6,7 @@
    - 👨‍💻 HTML/CSS/JS, React, React Native, Angular, NodeJS
    - PHP/MySQL/MongoDB/Firebase
    - 📫 Reach me through:
-      - Telegram at https://t.me/nusry
       - Email at nusry@pm.me
    - 🔗 Links:
       - LinkedIn: https://www.linkedin.com/in/nusrynizam/
-      - Website: https://nusry.netlify.app/
+      - Website: https://nusrynizam.com
